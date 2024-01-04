@@ -1,5 +1,12 @@
 # Changelog
 
+## [18.5.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.5.0...v18.5.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZE204_mtoaryre` as TuYa MTG075-ZB-RL ([#6828](https://github.com/Koenkk/zigbee-herdsman-converters/issues/6828)) ([1313fcb](https://github.com/Koenkk/zigbee-herdsman-converters/commit/1313fcbdf4f0339932b369d92d40203a10949b80))
+
 ## [18.5.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v18.4.0...v18.5.0) (2024-01-04)
 
 
